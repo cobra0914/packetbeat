@@ -1,1 +1,1 @@
-FROM docker.elastic.co/beats/packetbeat:5.4.1
+FROM docker.elastic.co/beats/packetbeat:5.5.2
